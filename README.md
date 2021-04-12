@@ -15,6 +15,7 @@ Message(20, 2, 1, 7, 8)
 ========================================================
 	Lai Yang Global Snapshot Algoritham
 ========================================================
+`code`
 Enter initial value for process P1:
 800
 Enter initial value for process P2:
@@ -27,6 +28,7 @@ Processes Initialized Successfully.
 Initial Value P1 = 800
 Initial Value P2 = 200
 Total System Value = 1000
+`code`
 ========================================================
 Enter values for message 1
 Amount: 
@@ -83,6 +85,7 @@ Start Timestamp[0-10]:
 7
 End Timestamp[0-10]:
 8
+`code`
 ==========================
 |  Timestamp   P1      P2 |
 ==========================
@@ -119,4 +122,4 @@ Initial system value is EQUAL to snapshot value hence it is a consistant global 
 ========================================================
 	END OF ALGORITHAM
 ========================================================
-`code`
+
