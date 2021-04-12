@@ -1,7 +1,12 @@
 package com.harsh.dcassignment;
 
 import java.util.Scanner;
-
+/**
+ * Take all valid user inputs.
+ * 
+ * @author Harsh Tak
+ *
+ */
 public class LaiYangAlgorithm {
 
 	public static void main(String[] args) throws LaiYangException {

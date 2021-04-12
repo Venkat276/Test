@@ -1,5 +1,10 @@
 package com.harsh.dcassignment;
-
+/**
+ * This class handles all logic related to global snapshot recording.
+ * 
+ * @author Harsh Tak
+ *
+ */
 public class GlobalSnapshotRecording {
 
 	private Message redMessage;

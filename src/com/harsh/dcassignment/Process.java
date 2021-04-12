@@ -1,5 +1,11 @@
 package com.harsh.dcassignment;
 
+/**
+ * Distributes system process.
+ * 
+ * @author Harsh Tak
+ *
+ */
 public class Process {
 
 	private int id;

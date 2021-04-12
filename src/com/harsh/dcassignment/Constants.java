@@ -1,5 +1,9 @@
 package com.harsh.dcassignment;
-
+/**
+ * Define all constants in this class. 
+ * @author Harsh Tak
+ *
+ */
 public class Constants {
 	
 	public static final int PROCESS_ID_P1 = 1;

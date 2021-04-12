@@ -1,5 +1,10 @@
 package com.harsh.dcassignment;
-
+/**
+ * Message between processes.
+ * 
+ * @author Harsh Tak
+ *
+ */
 public class Message {
 
 	int value;

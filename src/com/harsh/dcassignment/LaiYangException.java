@@ -1,5 +1,9 @@
 package com.harsh.dcassignment;
-
+/**
+ * {@link LaiYangException} Occurs when invalid input is entered.
+ * @author Harsh Tak
+ *
+ */
 public class LaiYangException extends Exception{
 
 	private static final long serialVersionUID = 1L;

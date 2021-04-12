@@ -1,5 +1,9 @@
 package com.harsh.dcassignment;
-
+/**
+ * This class setups initial processes, messages and timestamps with process states.
+ * @author Harsh Tak
+ *
+ */
 public class LaiYangStates {
 
 	private Process p1;
