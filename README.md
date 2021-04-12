@@ -1,5 +1,6 @@
 Lai Yang Global Snapshot Algoritham
 
+![alt text](https://github.com/harshfast/snapshot-lai-yang-algoritham/blob/master/res/laiyang_sample.PNG)
 
 Sample Input according to above image.
 
