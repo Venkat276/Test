@@ -1,6 +1,5 @@
 Lai Yang Global Snapshot Algoritham
 
-![alt text](/res/laiyang_sample.jpg)
 
 Sample Input according to above image.
 
