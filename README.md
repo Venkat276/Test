@@ -1,5 +1,7 @@
 Lai Yang Global Snapshot Algoritham
 
+![alt text](res/laiyang_sample.jpg)
+
 Sample Input according to above image.
 
 Message(20, 1, 2, 1, 2)
@@ -9,8 +11,7 @@ Message(30, 2, 1, 4, 6)
 Message(20, 2, 1, 7, 8)
 
 
-Sample Output.
-
+`code`
 ========================================================
 	Lai Yang Global Snapshot Algoritham
 ========================================================
