@@ -1,6 +1,6 @@
 Lai Yang Global Snapshot Algoritham
 
-![alt text](res/laiyang_sample.jpg)
+![alt text](/res/laiyang_sample.jpg)
 
 Sample Input according to above image.
 
@@ -119,3 +119,4 @@ Initial system value is EQUAL to snapshot value hence it is a consistant global 
 ========================================================
 	END OF ALGORITHAM
 ========================================================
+`code`
