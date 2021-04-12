@@ -4,18 +4,18 @@ Lai Yang Global Snapshot Algoritham
 
 Sample Input according to above image.
 
-Message(20, 1, 2, 1, 2)
-Message(30, 1, 2, 2, 6)
-Message(10, 1, 2, 3, 5)
-Message(30, 2, 1, 4, 6)
-Message(20, 2, 1, 7, 8)
+- Message(20, 1, 2, 1, 2)
+- Message(30, 1, 2, 2, 6)
+- Message(10, 1, 2, 3, 5)
+- Message(30, 2, 1, 4, 6)
+- Message(20, 2, 1, 7, 8)
 
 
-`code`
-========================================================
+
+`========================================================
 	Lai Yang Global Snapshot Algoritham
 ========================================================
-`code`
+
 Enter initial value for process P1:
 800
 Enter initial value for process P2:
@@ -28,7 +28,7 @@ Processes Initialized Successfully.
 Initial Value P1 = 800
 Initial Value P2 = 200
 Total System Value = 1000
-`code`
+
 ========================================================
 Enter values for message 1
 Amount: 
@@ -85,7 +85,7 @@ Start Timestamp[0-10]:
 7
 End Timestamp[0-10]:
 8
-`code`
+
 ==========================
 |  Timestamp   P1      P2 |
 ==========================
@@ -121,5 +121,5 @@ Initial system value is EQUAL to snapshot value hence it is a consistant global 
 
 ========================================================
 	END OF ALGORITHAM
-========================================================
+========================================================`
 
