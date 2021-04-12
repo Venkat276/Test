@@ -85,32 +85,32 @@ End Timestamp[0-10]:
 ==========================
 |  Timestamp   P1      P2 |
 ==========================
-|   T0  |  800  |  200  |
+|   T1  |  800  |  200  |
 ==========================
-|   T1  |  780  |  200  |
+|   T2  |  780  |  200  |
 ==========================
-|   T2  |  750  |  220  |
+|   T3  |  750  |  220  |
 ==========================
-|   T3  |  740  |  220  |
+|   T4  |  740  |  220  |
 ==========================
-|   T4  |  740  |  190  |
+|   T5  |  740  |  190  |
 ==========================
-|   T5  |  740  |  200  |
+|   T6  |  740  |  200  |
 ==========================
-|   T6  |  770  |  230  |
+|   T7  |  770  |  230  |
 ==========================
-|   T7  |  770  |  210  |
-==========================
-|   T8  |  790  |  210  |
+|   T8  |  770  |  210  |
 ==========================
 |   T9  |  790  |  210  |
-Enter red message index[1-5]:
-1
-Local State P1: 780
-Local State P2: 200
-Total of sent messages from P1 to P2:  20
-Total of messages received from P1 to P2:  0
-Total of sent messages from P2 to P1:  0
+==========================
+|   T10  |  790  |  210  |
+Enter RED message index[1-5]:
+3
+Local State P1: 740
+Local State P2: 190
+Total of sent messages from P1 to P2:  60
+Total of messages received from P1 to P2:  20
+Total of sent messages from P2 to P1:  30
 Total of messages received from P2 to P1:  0
 Total Initial Value 1000 == Total Snapshot Value 1000
 Initial system value is EQUAL to snapshot value hence it is a consistant global state.
@@ -118,5 +118,5 @@ Initial system value is EQUAL to snapshot value hence it is a consistant global 
 ========================================================
 	END OF ALGORITHAM
 ========================================================
-```
 
+```
