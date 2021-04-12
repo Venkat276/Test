@@ -10,6 +10,8 @@ Sample Input according to above image.
 - Message(30, 2, 1, 4, 6)
 - Message(20, 2, 1, 7, 8)
 
+**NOTE: These messages are sent at exact timestamp not in between as shown in the diagarm.**
+
 ```
 ========================================================
 	Lai Yang Global Snapshot Algoritham
