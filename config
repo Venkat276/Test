@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	symlinks = false
+	ignorecase = true
+[remote "test1"]
+	url = https://github.com/Venkat276/
+	fetch = +refs/heads/*:refs/remotes/test1/*
